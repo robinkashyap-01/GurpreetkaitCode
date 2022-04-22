@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GurpreetkaitCode
 - 👀 I’m interested in doing code everyday and I love to explpore my potential
-- 🌱 I’m currently learning ReactJs and Python and I working with PHP Laravel.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ReactJs and Python and I am working with PHP Laravel.
+- 💞️ I am really passionate about solving code problems so that I can learn about new things and upgrade myself.
 - 📫 You can contact me through gurpreetkait.codes@gmail.com
 
 <!---
