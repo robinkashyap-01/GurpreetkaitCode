@@ -1,6 +1,6 @@
 <table>
 <tr>
-  <td align="center">
+  <td>
      👋<h2> Hi, I’m @GurpreetkaitCode </h2>
     <ul>
 <li>👀 I’m interested in doing code everyday and I love to explpore my potential </li>
