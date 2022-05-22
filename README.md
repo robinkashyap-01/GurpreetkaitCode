@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurpreet kait</h1>
 <h3 align="center">A passionate Full stack Developer from India - Traveler - Freelancer Explorer -</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GurpreetkaitCode&label=Profile%20views&color=0e75b6&style=flat" alt="GurpreetkaitCode" /> </p>
 
 <table>
   <tr>
