@@ -34,12 +34,11 @@
 <h3 align="left">Databases:</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 ### Blogs posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gurpreetkait/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gurpreetkait/0" alt="Recent Article 0"> 
+  
+ <!--START_SECTION:activity-->
+<!--END_SECTION:activity--> 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
