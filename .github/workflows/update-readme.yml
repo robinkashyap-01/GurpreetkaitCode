@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses:  GurpreetkaitCode/README@main
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: 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
 
