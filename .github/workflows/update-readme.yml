@@ -9,6 +9,6 @@ jobs:
     name: Update this repo's README with recent activity
     steps:
       - uses: actions/checkout@v2
-      - uses: GurpreetkaitCode/github-activity-readme@main
+      - uses:  jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ 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 }}
