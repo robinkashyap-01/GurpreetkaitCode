@@ -37,8 +37,10 @@
 ### Blogs posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gurpreetkait/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gurpreetkait/0" alt="Recent Article 0"> 
   
- <!--START_SECTION:activity-->
-<!--END_SECTION:activity--> 
+### Recent Activity
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
