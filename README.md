@@ -36,8 +36,7 @@
 ### Blogs posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gurpreetkait/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gurpreetkait/0" alt="Recent Article 0"> 
   
-### Recent Activity
-  
+ 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
   
