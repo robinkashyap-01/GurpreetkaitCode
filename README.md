@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurpreet kait</h1>
 <h3 align="center">A passionate Full stack Developer from India - Traveler - Freelancer Explorer -</h3>
 
-<table>
+<table align="center">
   <tr>
     <td>
 - 🔭 I’m currently looking for a project as an Independent freelancer
