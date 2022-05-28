@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-- 🔭 I’m currently working on ApkaCfo - Saas product [Apka Cfo](https://www.apkacfo.com/app/login.php)
+- 🔭 I’m currently looking for a project as an Independent freelancer
 
 - 🌱 I’m currently learning **ReactJs,Python**
 
