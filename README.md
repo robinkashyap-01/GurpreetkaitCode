@@ -23,7 +23,7 @@
   </table>
  
 
-## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GurpreetkaitCode&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="GurpreetkaitCode" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GurpreetkaitCode&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="GurpreetkaitCode" /><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GurpreetkaitCode&theme=highcontrast&hide_border=true" alt="GurpreetkaitCode" /> </p><p align="center"><img width="100%" src="https://activity-graph.herokuapp.com/graph?username=GurpreetkaitCode&theme=dracula&hide_border=true" alt="GurpreetkaitCode" /></p>
+## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GurpreetkaitCode&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="GurpreetkaitCode" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GurpreetkaitCode&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="GurpreetkaitCode" /></p>
 
 
 ## Skills
