@@ -6,7 +6,7 @@
     <td>
 - 🔭 I’m currently looking for a project as an Independent freelancer
 
-- 🌱 I’m currently learning **ReactJs,Python**
+- 🌱 I’m currently learning **ReactJs**
 
 - 📝 I regularly write articles on [https://medium.com/@gurpreetkait](https://medium.com/@gurpreetkait)
 
