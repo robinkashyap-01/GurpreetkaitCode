@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 📝 I regularly write articles on [https://medium.com/@gurpreetkait](https://medium.com/@gurpreetkait)
+- 📝 I regularly write articles on [https://larachamp.com/]
 
 - 💬 Ask me about **PHP,Laravel,Javascript**
 
