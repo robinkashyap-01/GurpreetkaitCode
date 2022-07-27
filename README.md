@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurpreet kait</h1>
-<h3 align="center">A passionate Full stack Developer from India - Traveler - Freelancer Explorer -</h3>
+<h3 align="center">Programming Enthusiast | Freelancer | #laravel #php | 👋 A programmer who loves building stuff and making videos/blogs about coding</h3>
 
-<table align="center">
+<table>
   <tr>
     <td>
 - 🔭 I’m currently looking for a project as an Independent freelancer
@@ -16,16 +16,13 @@
 
 - ⚡ Fun fact **Whenever I feel boring, I do play my flute**
     </td>
-    <td>
-      <p> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRIQJq_AV1kersDgVIw0QyfkOaImImqexmWGkK6aGCXw&s" alt="GurpreetkaitCode" /></p>
-      </td>
+<td>
+<a href="https://app.daily.dev/gurpreetkait"><img src="https://api.daily.dev/devcards/f977cffe43d1416aa8d98c9a50f21152.png?r=uxl" width="400" alt="Gurpreet Kait's Dev Card"/>
+</td>
+    
   </tr>
   </table>
  
-
-## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GurpreetkaitCode&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="GurpreetkaitCode" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GurpreetkaitCode&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="GurpreetkaitCode" /></p>
-
-
 ## Skills
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
