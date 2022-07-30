@@ -17,7 +17,7 @@
 - ⚡ Fun fact **Whenever I feel boring, I do play my flute**
     </td>
 <td>
-<a href="https://app.daily.dev/gurpreetkait"><img src="https://api.daily.dev/devcards/f977cffe43d1416aa8d98c9a50f21152.png?r=uxl" width="400" alt="Gurpreet Kait's Dev Card"/>
+<a href="https://app.daily.dev/gurpreetkait"><img src="https://api.daily.dev/devcards/f977cffe43d1416aa8d98c9a50f21152.png?r=j4b" width="400" alt="Gurpreet Kait's Dev Card"/>
 </td>
     
   </tr>
