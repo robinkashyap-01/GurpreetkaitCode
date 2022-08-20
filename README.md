@@ -1,5 +1,5 @@
-![it's Me](https://larachamp.com/wp-content/uploads/2022/08/laravel-middleware-1.png)
-<h3> Hi 👋,I am Working as a Freelance Full Stack Developer, Loves writing blogs sharing knowledge and building Stuff </h3>
+
+<h1>😎 Freelance Full Stack Developer, Loves writing blogs sharing knowledge and building Stuff </h1>
 </ul>
 <h2>🧾 Blog Posts </h2> 
 <li> <a href="https://larachamp.com/how-to-use-middleware-in-laravel/"> How to use Middleware In Laravel</a></li>
