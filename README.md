@@ -1,14 +1,44 @@
 
-<h1>Hi 👋, this is Gurpreet kait</h1>
-</ul>
-<h2>🧾 Blog Posts </h2> 
-<li> <a href="https://larachamp.com/how-to-use-middleware-in-laravel/"> How to use Middleware In Laravel</a></li>
-<li> <a href="https://larachamp.com/how-to-use-laravel-permission-package/"> How to use Laravel Permission Package</a> </li>
-<li> <a href="https://larachamp.com/how-to-send-mail-in-laravel-with-template/"> How to send mail in Laravel with template</a> </li>
-<li> <a href="https://larachamp.com/vs-code-extensions-for-laravel-developers/"> VS Code extensions for Laravel Developers</li>
-</ul>
+# Hi, I'm GurpreetKait! 👋 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurpreetkaitcode&show_icons=true&locale=en" alt="gurpreetkaitcode" /></p>
+## 🚀 About Me
+Building side project ☆ Open Source | Full Stack Developer | Blogger  
+
+
+## 🛠 Skills
+PHP, Javascript ...
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Side Projects
+
+🧠 I'm currently learning ReactJs
+
+👯‍♀️ I'm looking to collaborate on Side Project
+
+🤔 I'm looking for help with Saas Marketing
+
+💬 Ask me about PHP,Laravel
+
+📫 How to reach me gurpreetkait.codes@gmail.com
+
+
+
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS , Blade
+
+**Server:** PHP, Laravel
+
+
+## 🔗 Links
+[![Blog](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreet-kait-a96276216/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gurpreetkait)
+
