@@ -1,5 +1,5 @@
 
-<h1>😎 Freelance Full Stack Developer, Loves writing blogs sharing knowledge and building Stuff </h1>
+<h1>Hi 👋, this is Gurpreet kait</h1>
 </ul>
 <h2>🧾 Blog Posts </h2> 
 <li> <a href="https://larachamp.com/how-to-use-middleware-in-laravel/"> How to use Middleware In Laravel</a></li>
