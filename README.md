@@ -5,12 +5,6 @@
 ## 🚀 About Me
 Building side project ☆ Open Source | Full Stack Developer | Blogger  
 
-
-## 🛠 Skills
-PHP, Javascript ...
-
-
-## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Side Projects
 
 🧠 I'm currently learning ReactJs
@@ -24,6 +18,9 @@ PHP, Javascript ...
 📫 How to reach me gurpreetkait.codes@gmail.com
 
 
+
+## 🛠 Skills
+PHP, Javascript ...
 
 ## Support
 
