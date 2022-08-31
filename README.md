@@ -22,9 +22,9 @@ Building side project ☆ Open Source | Full Stack Developer | Blogger
 ## 🛠 Skills
 PHP, Javascript ...
 
-## Support
+## Community For Builders
 
-For support, email fake@fake.com or join our Slack channel.
+Join https://discord.gg/3wqpMSH9 Let's Create an environment
 
 
 ## Tech Stack
