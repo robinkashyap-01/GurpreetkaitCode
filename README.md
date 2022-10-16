@@ -7,7 +7,7 @@ Building side project ☆ Open Source | Full Stack Developer | Blogger
 
 👩‍💻 I'm currently working on Side Projects
 
-🧠 I'm currently learning ReactJs
+🧠 I'm currently Hacking on Javascript and Laravel
 
 👯‍♀️ I'm looking to collaborate on Side Project
 
