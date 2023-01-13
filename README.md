@@ -1,37 +1,18 @@
 
 # Hi, I'm GurpreetKait! 👋 
 
-
 ## 🚀 About Me
 Building side project ☆ Open Source | Full Stack Developer | Blogger  
-
-👩‍💻 I'm currently working on Side Projects
-
-🧠 I'm currently Hacking on Javascript and Laravel
-
-👯‍♀️ I'm looking to collaborate on Side Project
-
-🤔 I'm looking for help with Saas Marketing
-
 💬 Ask me about PHP,Laravel
-
 📫 How to reach me gurpreetkait.codes@gmail.com
-
-
-
 ## 🛠 Skills
 PHP, Javascript ...
-
-## Community For Builders
-
-Join https://discord.gg/3wqpMSH9 Let's Create an environment
-
 
 ## Tech Stack
 
 **Client:** React, Redux, TailwindCSS , Blade
 
-**Server:** PHP, Laravel
+**Server:** PHP, Laravel , Codeigniter, Wordpress "All PHP Thing For Now" :)
 
 
 ## 🔗 Links
