@@ -1,14 +1,7 @@
 
 # Hi, I'm GurpreetKait! 👋 
 
-## 🚀 About Me
-Building side project ☆ Open Source | Full Stack Developer | Blogger  
-💬 Ask me about PHP,Laravel
-📫 How to reach me gurpreetkait.codes@gmail.com
-## 🛠 Skills
-PHP, Javascript ...
-
-## Tech Stack
+Developer | Blogger| Flautist
 
 **Client:** React, Redux, TailwindCSS , Blade
 
