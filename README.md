@@ -1,5 +1,5 @@
 
-# Hi, I'm GurpreetKait! 👋 
+# Hi, I'm Atman 👋 (Gurpreet)
 
 Technical Writer | Eng. By Profession
 
